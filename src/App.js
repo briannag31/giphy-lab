@@ -15,9 +15,6 @@ function App() {
     const info = await response.json()
 
     setGf(info)
-    console.log("response is:", response)
-    console.log("gif is:", gf)
-
   }
 
   return (

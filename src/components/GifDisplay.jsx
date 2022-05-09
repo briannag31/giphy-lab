@@ -1,5 +1,4 @@
 const GifDisplay = ({gf}) => {
-    console.log(gf)
         if (gf){
             return <div>
             <>
